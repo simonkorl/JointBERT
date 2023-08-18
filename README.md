@@ -20,6 +20,14 @@
 - seqeval==0.0.12
 - pytorch-crf==0.7.2
 
+CUDA 11.7
+
+- python>=3.10
+- torch>=2.0.1
+- transformers>=4.30.2
+- seqeval==0.0.12
+- pytorch-crf==0.7.2
+
 ## Dataset
 
 |       | Train  | Dev | Test | Intent Labels | Slot Labels |
